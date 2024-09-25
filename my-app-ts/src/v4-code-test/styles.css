@@ -1,0 +1,58 @@
+/* Help me - I need styles!! */
+/* STYLE EXERCISE */
+
+/* aspect ratio is width vs height */
+body {
+    margin: 0;
+}
+
+.top-row {
+    margin: 0px;
+}
+
+.social-icons, 
+.menu-items {
+    display: flex;
+    list-style-type: none;
+    padding-left: 10px;
+    padding-top: 5px;
+}
+
+.social-icons svg {
+    fill: white;
+}
+
+.menu-items {
+    display: flex;
+    justify-content: center;
+    padding: 15px 0px;
+    font-style: italic; 
+    border-top: solid grey 1px;
+}
+
+.menu-items a {
+    text-decoration: none;
+    color: white;
+}
+
+.menu-items li {
+    margin-right: 10px;
+}
+
+.title-row {
+    text-align: center;
+}
+
+header {
+    background-color: black;
+    color: white;
+    margin: 0px;
+}
+
+main {
+    background-color: red;
+    max-width: 1296px;
+    margin: 48px auto;
+    overflow: hidden;
+    padding: 0 48px;
+}

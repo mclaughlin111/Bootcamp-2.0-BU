@@ -1,0 +1,21 @@
+.alert {
+  color: black;
+  border-radius: 8px;
+  padding: 20px;
+}
+
+.info {
+  background-color: lightblue;
+}
+
+.error {
+  background-color: red;
+}
+
+.warning {
+  background-color: orange;
+}
+
+.success {
+  background-color: lightgreen;
+}

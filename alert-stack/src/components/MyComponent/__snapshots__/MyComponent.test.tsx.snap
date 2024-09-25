@@ -1,0 +1,33 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Render a basic my component 1`] = `
+<div>
+  <div>
+    Edwards, Duncan
+  </div>
+  <div>
+    Location: 
+    Bristol
+  </div>
+  <div>
+    IsEmployed?: 
+    Yes!
+  </div>
+</div>
+`;
+
+exports[`Render a basic my component 2`] = `
+<div>
+  <div>
+    Smith, Jane
+  </div>
+  <div>
+    Location: 
+    London
+  </div>
+  <div>
+    IsEmployed?: 
+    No
+  </div>
+</div>
+`;
